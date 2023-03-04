@@ -1,0 +1,7 @@
+joshwa v
+
+- code to input pdf files and store in db
+- creat a db in phpmyadmin , db name pdf , table is pdf_table
+- xampp server , should be in htdoks
+- pdf saved in uploads folder ,create it
+- to open use localhost/indo.php
